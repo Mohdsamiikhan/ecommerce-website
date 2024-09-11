@@ -1,7 +1,7 @@
-INNOVATECH Shop
+InnovateTech Shop
 Project Overview
 
-INNOVATECH Shop is a responsive e-commerce website created as part of a sunstone project. The primary goal of the project is to design a user-friendly online platform that allows customers to browse and purchase electronic products, such as smartphones, laptops, and gaming gadgets. The website includes key features such as product categorization, user authentication, and a subscription option for newsletters.
+InnovateTech Shop is a responsive e-commerce website created as part of a sunstone project. The primary goal of the project is to design a user-friendly online platform that allows customers to browse and purchase electronic products, such as smartphones, laptops, and gaming gadgets. The website includes key features such as product categorization, user authentication, and a subscription option for newsletters.
 Problem Statement
 
 In the ever-evolving world of technology, consumers seek an online shopping experience that is both efficient and enjoyable. Many e-commerce platforms lack personalized recommendations, easy navigation, and secure user authentication. The INNOVATECH Shop addresses these issues by providing a streamlined and secure shopping experience tailored to tech enthusiasts.
